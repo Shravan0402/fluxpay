@@ -1,0 +1,30 @@
+{
+  "name": "ai-chatbot-frontend",
+  "version": "1.0.0",
+  "description": "Modern AI Chatbot Frontend with smooth UX",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/index.html",
+    "build": "echo 'Build process for production'",
+    "start": "live-server --port=3000"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.0",
+    "framer-motion": "^10.16.16",
+    "lucide": "^0.294.0",
+    "animate.css": "^4.1.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  },
+  "keywords": [
+    "chatbot",
+    "ai",
+    "frontend",
+    "modern-ui"
+  ],
+  "author": "AI Assistant",
+  "license": "MIT"
+}
