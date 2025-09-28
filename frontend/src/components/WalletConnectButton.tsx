@@ -1,9 +1,8 @@
-// src/components/WalletConnectButton.tsx
 'use client';
 
 import React from 'react';
 import { useAccount, useConnect, useDisconnect } from 'wagmi';
-import Button from './Button'; // Your animated button component
+import Button from './Button'; 
 import { motion } from 'framer-motion';
 
 export function WalletConnectButton() {
