@@ -34,7 +34,7 @@ export function WalletConnectButton() {
     <Button   onClick={() => {
       connect({ connector: filteredConnectors[0]})
     }} variant="primary">
-      Connect Wallet to Chat
+      Connect Wallet to Continue
     </Button>
   );
 }
