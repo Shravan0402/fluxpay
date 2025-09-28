@@ -51,14 +51,14 @@ A revolutionary payment system that enables AI agents to accept payments across 
 ## 🛠️ Technology Stack
 
 ### Backend
-- **FastAPI**: REST API with payment gating
-- **Python 3.13**: Core backend logic
-- **aiohttp**: Async HTTP client for facilitator communication
+- **FastAPI**: REST API with payment gating.
+- **Python 3.13**: Core backend logic.
+- **aiohttp**: Async HTTP client for facilitator communication.
 
 ### Facilitator (Solver)
-- **Node.js + TypeScript**: Cross-chain payment settlement
-- **viem**: Ethereum interaction library
-- **EIP-3009**: Confidential token standard for authorizations
+- **Node.js + TypeScript**: Cross-chain payment settlement.
+- **viem**: Ethereum interaction library.
+- **EIP-3009**: Confidential token standard for authorizations.
 
 ### Frontend
 - **Next.js 14**: React-based UI
